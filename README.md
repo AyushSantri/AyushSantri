@@ -25,7 +25,8 @@ technical skills in web development, web development, and video editing.
 [![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#)
 [![HTML Badge](https://img.shields.io/badge/HTML-43853D?style=for-the-badge&logo=HTML&logoColor=white)](#)
 [![CSS Badge](https://img.shields.io/badge/CSS-43853D?style=for-the-badge&logo=CSS&logoColor=white)](#) 
-[![VCode Badge](https://img.shields.io/badge/VCode-20232A?style=for-the-badge&logo=VCode&logoColor=61DAFB)](#)  
+[![JavaScript Badge](https://img.shields.io/badge/javascript-20232A?style=for-the-badge&logo=javascript&logoColor=61DAFB)](#) 
+[![VCode Badge](https://img.shields.io/badge/VCode-20232A?style=for-the-badge&logo=VCode&logoColor=61DAFB)](#)
  <hr>
  
  
