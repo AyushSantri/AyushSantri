@@ -4,8 +4,7 @@
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>🙋‍♂️ About me</h3>
 I am a tech enthusiast who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or
 applications from different industries. I have an academic background in B.tech in Computer science and engineering and strong
-technical skills in app development, embedded systems, web development, 3D designing, and video editing. I am currently leading IEEE Student Branch DIT University as Technical Head(2020-present) and Microsoft Learn Student
-Ambassador 2021. 
+technical skills in web development, web development, and video editing.  
 
 <h4>I’m looking to collaborate on Open-Source Projects<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px"></h4>
 
@@ -22,8 +21,8 @@ Ambassador 2021.
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#top-technologies"></a>🚀 My top technologies</h3>
  
   
+[![c++ Badge](https://img.shields.io/badge/-c++-00599C?style=for-the-badge&labelColor=white&logo=c&logoColor=00599C)](#)
 [![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#)
-[![c++ Badge](https://img.shields.io/badge/-c++-00599C?style=for-the-badge&labelColor=white&logo=c&logoColor=00599C)](#) 
 [![HTML Badge](https://img.shields.io/badge/HTML-43853D?style=for-the-badge&logo=HTML&logoColor=white)](#)
 [![CSS Badge](https://img.shields.io/badge/CSS-43853D?style=for-the-badge&logo=CSS&logoColor=white)](#) 
 [![VCode Badge](https://img.shields.io/badge/VCode-20232A?style=for-the-badge&logo=VCode&logoColor=61DAFB)](#)  
